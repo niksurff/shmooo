@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 
-const readline = require('readline')
-
 const SHMOOO = '¯\\_(ツ)_/¯'
 const OK = 'ツ'
 
