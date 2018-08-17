@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nikvm/shmooo.git"
+    "url": "git+https://github.com/niksurff/shmooo.git"
   },
   "keywords": [
     "¯\\_(ツ)_/¯",
@@ -19,12 +19,12 @@
     "smile",
     "smilie"
   ],
-  "author": "nikvm <hi@nikvm.me> (https://nikvm.me)",
+  "author": "Nik Surff (https://lazylife.ninja)",
   "license": "UNLICENSE",
   "bugs": {
-    "url": "https://github.com/nikvm/shmooo/issues"
+    "url": "https://github.com/niksurff/shmooo/issues"
   },
-  "homepage": "https://github.com/nikvm/shmooo#readme",
+  "homepage": "https://github.com/niksurff/shmooo#readme",
   "bin": {
     "shmooo": "index.js"
   },
